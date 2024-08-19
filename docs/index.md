@@ -3,6 +3,7 @@
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## 0.4.0
+Test update.
 
 ## Commands
 
